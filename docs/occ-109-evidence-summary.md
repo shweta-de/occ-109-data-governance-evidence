@@ -10,6 +10,8 @@ Detailed section packets:
 - [109(d) — Access management](109-d-access-management/)
 - [109(e) — Data quality assurance](109-e-data-quality-assurance/)
 
+Each section folder also contains public-safe quick-reference cards for the completed Linear issues cited below. The cards include status, owner, project, completion metadata, a concise outcome, and the authoritative Linear link.
+
 ## (a) Data-quality governance documentation, dashboards, and issue logs
 
 | Completed control | Owner | Linear evidence |

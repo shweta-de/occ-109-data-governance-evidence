@@ -13,3 +13,16 @@ Completed Data Engineering evidence for data-quality governance documentation, m
 | [DE-1533 — Data-pipeline guardrails](https://linear.app/bitgo/issue/DE-1533/guardrail-for-data-pipelines) | Shweta Dhingra | Pull-request and ownership guardrails based on the Data Trust Framework. |
 
 Related governance document: [stored-procedure report governance](DE-2577-stored-procedure-governance.md).
+
+## Linear issue cards
+
+- [DE-2550](DE-2550.md)
+- [DE-658](DE-658.md)
+- [DE-1746](DE-1746.md)
+- [DE-2243](DE-2243.md)
+- [DE-640](DE-640.md)
+- [DE-641](DE-641.md)
+- [DE-1533](DE-1533.md)
+- [DE-2577](DE-2577.md)
+
+Issue cards contain public-safe summaries and pointers to the authoritative Linear records.

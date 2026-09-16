@@ -17,3 +17,19 @@ Completed controls for freshness, completeness, schema integrity, validation, mo
 | [DE-1834 — Tier-1 DSA/Billing tests](https://linear.app/bitgo/issue/DE-1834/identify-base-staging-tables-and-apply-dbt-data-quality-tests-for-tier) | Prateek Patnaik | DQ tests for high-impact DSA/Billing staging tables. |
 
 These controls demonstrate how completeness, accuracy, timeliness, and schema reliability are monitored. Vendor-specific evidence should be attached from the relevant source/vendor issue when needed.
+
+## Linear issue cards
+
+- [DE-2790](DE-2790.md)
+- [DE-2610](DE-2610.md)
+- [DE-2611](DE-2611.md)
+- [DE-2612](DE-2612.md)
+- [DE-2791](DE-2791.md)
+- [DE-2792](DE-2792.md)
+- [DE-2738](DE-2738.md)
+- [DE-1232](DE-1232.md)
+- [DE-2115](DE-2115.md)
+- [DE-2815](DE-2815.md)
+- [DE-1834](DE-1834.md)
+
+Issue cards contain public-safe summaries and pointers to the authoritative Linear records.

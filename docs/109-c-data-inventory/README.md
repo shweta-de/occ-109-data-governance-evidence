@@ -11,3 +11,13 @@ Completed evidence for cataloging data systems, pipelines, ownership, environmen
 | [DE-2241 — Pipeline ownership catalog](https://linear.app/bitgo/issue/DE-2241/update-stale-owners-in-data-pipeline-ownership-catalog-with-squad-owners) | Suresh Ravi | Stale data-pipeline owners updated to current squads. |
 
 The catalog evidence should be paired with the relevant Confluence pages and generated ownership artifacts linked from the Linear issues.
+
+## Linear issue cards
+
+- [DE-1368](DE-1368.md)
+- [DE-640](DE-640.md)
+- [DE-641](DE-641.md)
+- [DE-1526](DE-1526.md)
+- [DE-2241](DE-2241.md)
+
+Issue cards contain public-safe summaries and pointers to the authoritative Linear records.

@@ -10,3 +10,12 @@ Completed Data Engineering evidence related to access scoping, Snowflake governa
 | [DE-982 — Analytics access to staging.linear](https://linear.app/bitgo/issue/DE-982/provide-analytics-access-to-staginglinear-in-snowflake) | Anant Gupta | Analytics access to Snowflake Linear data provided. |
 
 These completed issues are access-control evidence. A separate periodic access-review export for each critical system should be attached if OCC requests review-cycle evidence.
+
+## Linear issue cards
+
+- [DE-832](DE-832.md)
+- [DE-1761](DE-1761.md)
+- [DE-1776](DE-1776.md)
+- [DE-982](DE-982.md)
+
+Issue cards contain public-safe summaries and pointers to the authoritative Linear records.

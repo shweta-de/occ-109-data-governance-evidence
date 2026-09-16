@@ -11,4 +11,4 @@ Public evidence package organized by the five OCC-109 request sections.
 - [109(d) — Access management](docs/109-d-access-management/)
 - [109(e) — Data quality assurance](docs/109-e-data-quality-assurance/)
 
-Each section contains the relevant completed Linear evidence, owners, and source links.
+Each section contains the relevant completed Linear evidence, owners, source links, and public-safe Linear issue cards.

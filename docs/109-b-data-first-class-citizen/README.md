@@ -13,3 +13,15 @@ Completed evidence describing the Data Trust/Data Quality program, known issues,
 | [DE-511 — PwC balance reconciliation](https://linear.app/bitgo/issue/DE-511/pwc-audit-compliance-for-balance-recon) | Suresh Ravi | Balance-reconciliation control supporting audit requirements. |
 
 These items are completed Linear work; attach the underlying documents, dashboards, PRs, or test runs from the issue records when submitting to OCC.
+
+## Linear issue cards
+
+- [DE-2550](DE-2550.md)
+- [DE-1746](DE-1746.md)
+- [DE-1834](DE-1834.md)
+- [DE-2986](DE-2986.md)
+- [DE-3046](DE-3046.md)
+- [DE-2950](DE-2950.md)
+- [DE-511](DE-511.md)
+
+Issue cards contain public-safe summaries and pointers to the authoritative Linear records.
