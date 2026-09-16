@@ -1,19 +1,14 @@
 # OCC-109 Data Governance Evidence
 
-Evidence index for OCC request 109, assembled from completed Data Engineering Linear work and the related Slack discussion.
+Public evidence package organized by the five OCC-109 request sections.
 
-## Contents
+## Documents
 
-- [`docs/occ-109-evidence-summary.md`](docs/occ-109-evidence-summary.md) — completed controls mapped to OCC-109(a–e).
-- [`docs/source-register.md`](docs/source-register.md) — source links, owners, and evidence locations.
-- [`docs/stored-procedure-report-governance.md`](docs/stored-procedure-report-governance.md) — summary of the stored-procedure reporting governance document.
+- [OCC-109 evidence summary](docs/occ-109-evidence-summary.md)
+- [109(a) — Data quality governance](docs/109-a-data-quality-governance/)
+- [109(b) — Data as a First-Class Citizen](docs/109-b-data-first-class-citizen/)
+- [109(c) — Data inventory](docs/109-c-data-inventory/)
+- [109(d) — Access management](docs/109-d-access-management/)
+- [109(e) — Data quality assurance](docs/109-e-data-quality-assurance/)
 
-## Scope
-
-This repository contains a curated evidence index, not a replacement for the source systems. Linear issue links and corporate Google documents remain the authoritative records.
-
-The Google Sheets and Google Docs links require BitGo access and are intentionally referenced rather than copied. No client data, secrets, credentials, or report exports are stored here.
-
-## Important limitation
-
-This packet includes only work that Linear marked completed. Items still in Todo, Backlog, In Review, On Hold, Canceled, or Duplicate status are not presented as completed controls.
+Each section contains the relevant completed Linear evidence, owners, and source links.

@@ -2,6 +2,14 @@
 
 This document maps completed Data Engineering work to the five OCC-109 evidence asks. It intentionally excludes Linear issues that are Todo, Backlog, In Review, On Hold, Canceled, or Duplicate.
 
+Detailed section packets:
+
+- [109(a) — Data quality governance](109-a-data-quality-governance/)
+- [109(b) — Data as a First-Class Citizen](109-b-data-first-class-citizen/)
+- [109(c) — Data inventory](109-c-data-inventory/)
+- [109(d) — Access management](109-d-access-management/)
+- [109(e) — Data quality assurance](109-e-data-quality-assurance/)
+
 ## (a) Data-quality governance documentation, dashboards, and issue logs
 
 | Completed control | Owner | Linear evidence |
